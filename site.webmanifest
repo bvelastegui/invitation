@@ -1,0 +1,20 @@
+{
+  "name": "Baby Shower",
+  "short_name": "Baby Shower",
+  "description": "Acompañanos a celebrar el Baby Shower en honor a Victoria Daniel, el sábado 22 de octubre de 2022",
+  "icons": [
+    {
+      "src":"/invitation/android-chrome-192x192.png",
+      "sizes":"192x192",
+      "type":"image/png"
+    },
+    {
+      "src":"/invitation/android-chrome-512x512.png",
+      "sizes":"512x512",
+      "type":"image/png"
+    }
+  ],
+  "theme_color":"#ffffff",
+  "background_color":"#1b2735",
+  "display":"standalone"
+}
